@@ -1,0 +1,20 @@
+{
+    "members": [
+        {
+            "id": 1,
+            "name": "inalegwu James adah",
+            "phone": "+2349060904492",
+            "email": "adewahjames@gmail.com",
+            "birthday": "10-10-1995",
+            "photo": null,
+            "address": "obagaya village",
+            "member_type": "Youth",
+            "date_added": "2025-12-14 22:37:34"
+        }
+    ],
+    "parish_info": {
+        "name": "RCCG BENUE 2 SUNRISE PARISH YOUNG AND ADULTS ZONE",
+        "logo": null,
+        "background": null
+    }
+}
