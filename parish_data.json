@@ -10,11 +10,12 @@
             "address": "obagaya village",
             "member_type": "Youth",
             "date_added": "2025-12-14 22:37:34"
+        },
+        {
+            "id": 2,
+            "name": "Pst. Vincent Ayoka \"Provincial Youth President\"",
+            "phone": "+234 703 714 5484",
+            "birthday": "nil"
         }
-    ],
-    "parish_info": {
-        "name": "RCCG BENUE 2 SUNRISE PARISH YOUNG AND ADULTS ZONE",
-        "logo": null,
-        "background": null
-    }
+    ]
 }
